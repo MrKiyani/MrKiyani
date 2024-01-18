@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF5dwEI8XY/c_aPQQmBGS9fLlJOwd3yKg/edit?utm_content=DAF5dwEI8XY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+![MasterHead](https://www.canva.com/design/DAF5dwEI8XY/c_aPQQmBGS9fLlJOwd3yKg/edit?utm_content=DAF5dwEI8XY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Shah Wali Ullah Baig</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Pakistan</h3>
