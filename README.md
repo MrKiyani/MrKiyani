@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAF5dwEI8XY/c_aPQQmBGS9fLlJOwd3yKg/edit?utm_content=DAF5dwEI8XY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FSandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH&psig=AOvVaw1gJYPNKCMUdMtgxZlhsF73&ust=1705645757783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDbvOGn5oMDFQAAAAAdAAAAABAI)
 
 <h1 align="center">Hi 👋, I'm Shah Wali Ullah Baig</h1>
 <h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Pakistan</h3>
