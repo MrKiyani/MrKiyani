@@ -1,7 +1,7 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FSandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH&psig=AOvVaw1gJYPNKCMUdMtgxZlhsF73&ust=1705645757783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDbvOGn5oMDFQAAAAAdAAAAABAI)
+<!-- ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FSandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH&psig=AOvVaw1gJYPNKCMUdMtgxZlhsF73&ust=1705645757783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDbvOGn5oMDFQAAAAAdAAAAABAI) -->
 
-<h1 align="center">Hi 👋, I'm Shah Wali Ullah Baig</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Faizan Kiyani</h1>
+<h3 align="center">🔒 Cyber Security Professional | Web Penetration Testing Specialist </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,21 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Detection Models**
+- 🔭 I’m currently working on **Web Penetration**
 
-- 🌱 I’m currently learning **Satellite imagery analysis and modeling**
+- 🌱 I’m currently learning **System Administration & DevOps**
 
-- 👯 I’m looking to collaborate on **GAN Neural Network**
+- 👯 I’m looking to collaborate on **Red Teaming**
 
-- 🤝 I’m looking for help with **GAN Neural Network**
+- 🤝 I’m looking for help with **Android Pentesting & Post Exploitations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WaliUllahbaig](https://github.com/WaliUllahbaig)
+- 👨‍💻 All of my projects are available at [https://github.com/MrKiyani](https://github.com/MrKiyani)
 
-- 💬 Ask me about **Machine Learning and Computer Vision**
+- 💬 Ask me about **Web-Pentesting**
 
-- 📫 How to reach me **shahwalibaig39@gmail.com**
+- 📫 How to reach me **faizankiani446@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny 😂**
+- ⚡ Quick Insight: **Hacking brings a smile to my face. 😂**
 
 <h3 align="left">Connect with me:</h3>
 
