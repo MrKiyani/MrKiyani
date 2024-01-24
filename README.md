@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Kiyani</h1>
 <h3 align="center">🔒 Cyber Security Professional | Web Penetration Testing | DevOps </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Pentesting" width="400" src="https://cdn.dribbble.com/users/86429/screenshots/16832624/media/2644541ac5d5e197f8b16b1fc69685c4.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliullahbaig&label=Profile%20views&color=0e75b6&style=flat" alt="waliullahbaig" /> </p>
 
