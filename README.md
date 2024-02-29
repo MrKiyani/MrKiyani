@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FSandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH&psig=AOvVaw1gJYPNKCMUdMtgxZlhsF73&ust=1705645757783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDbvOGn5oMDFQAAAAAdAAAAABAI) -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Kiyani</h1>
-<h3 align="center">🔒 Cyber Security Professional | Web Penetration Testing | DevOps </h3>
+<h3 align="center">🔧 DevOps Engineer | Jenkins CI/CD | Terraform IaC | Kubernetes Orchestration </h3>
 
 <img align="right" alt="Pentesting" width="400" src="https://cdn.dribbble.com/users/86429/screenshots/16832624/media/2644541ac5d5e197f8b16b1fc69685c4.jpg">
 
@@ -9,21 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web Penetration**
+- 🔭 I’m currently working on **Automating Deployment Pipelines** to enhance efficiency.
 
-- 🌱 I’m currently learning **System Administration & DevOps**
+- 🌱 I’m currently learning **Infrastructure as Code, Kubernetes, and Docker Orchestration** to streamline operations.
 
-- 👯 I’m looking to collaborate on **Red Teaming**
+- 👯 I’m looking to collaborate on **Optimizing CI/CD Processes** for faster delivery.
 
-- 🤝 I’m looking for help with **Android Pentesting & Post Exploitations**
+- 🤝 I’m looking for help with **Containerized Environments & Scalability Challenges** to ensure seamless growth.
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrKiyani](https://github.com/MrKiyani)
+- 👨‍💻 All of my projects are available at *[https://github.com/MrKiyani](https://github.com/MrKiyani)*
 
-- 💬 Ask me about **Web-Pentesting**
+- 💬 Dive into **Cutting-Edge DevOps Solutions** with an AWS Twist.
 
-- 📫 How to reach me **faizankiani446@gmail.com**
+📫 How to reach me: **faizankiani446@gmail.com**
 
-- ⚡ Quick Insight: **Hacking brings a smile to my face. 😂**
+⚡ Quick Insight: **I'm passionate about driving results that make everyone smile. 😃**
 
 <h3 align="left">Connect with me:</h3>
 
