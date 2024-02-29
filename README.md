@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Kiyani</h1>
 <h3 align="center">🔧 DevOps Engineer | Jenkins CI/CD | Terraform IaC | Kubernetes Orchestration </h3>
 
-<img align="right" alt="Pentesting" width="400" src="https://cdn.dribbble.com/users/86429/screenshots/16832624/media/2644541ac5d5e197f8b16b1fc69685c4.jpg">
+<img align="right" alt="DevOps Image" width="400" src="https://raw.githubusercontent.com/MrKiyani/MrKiyani/main/DevOps.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waliullahbaig&label=Profile%20views&color=0e75b6&style=flat" alt="waliullahbaig" /> </p>
 
