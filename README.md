@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Automating Deployment Pipelines** to enhance efficiency.
 
-- 🌱 I’m currently learning **Infrastructure as Code, Kubernetes, and Docker Orchestration** to streamline operations.
+- 🌱 I’m currently managing **Infrastructure as Code, Kubernetes, and Docker Orchestration** to streamline operations.
 
 - 👯 I’m looking to collaborate on **Optimizing CI/CD Processes** for faster delivery.
 
